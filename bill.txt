@@ -1,0 +1,9 @@
+Purchasing Order # 1
+
+Sno.	ItemName	Qty	Price
+1	Sting		6	100
+2	RedBull		3	150
+3	Coke		6	80
+
+
+TOTAL PRICE = 1530

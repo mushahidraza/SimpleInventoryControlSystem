@@ -1,0 +1,6 @@
+5
+201 Coke SoftDrink 80 101
+202 Pepsi Drink 90 102
+203 Sting EnergyDrink 100 101
+204 RedBull ColdDrink 150 102
+205 7up FreshLime 65 101
